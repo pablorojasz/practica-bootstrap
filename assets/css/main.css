@@ -1,0 +1,9 @@
+.btn-moradito{
+    background-color: blueviolet;
+    color: aliceblue;
+    box-shadow: ;
+}
+.btn-moradito:hover{
+    background-color: rgb(red, green, blue);
+    color: aliceblue;
+}
